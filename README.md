@@ -1,11 +1,9 @@
 ## 👋 Eaí, tudo bem? Espero que sim! 👋
 
-- 😁 Me chamo Breno e uma das minhas paixões é... Programar, desenvolver e inovar!
-- 🧠 Possuo conhecimento em C#, HTML5 e CSS3. Também estou estudando JAVASCRIPT, pretendo estudar frameworks como REACT.JS, ANGULAR.JS e VUE.JS.
-- 🎓 Atualmente estou cursando o meu primeiro semestre na faculdade de ADS em FATEC PRAIA GRANDE.
--  ❗ Estou sempre evoluindo e me adaptando, é bom estar com a cabeça sempre funcionando.
+- 😁 Me chamo Breno e algumas das minhas paixões é... Programar, desenvolver e inovar!
+- 🧠 Possuo conhecimento em Java,C# , HTML5, CSS3, JavaScript. Também estou estudando frameworks como REACT.JS, VUE.JS e NODE.JS.
+- 🎓 Atualmente estou cursando o meu segundo semestre na faculdade de ADS em FATEC PRAIA GRANDE.
 - 👔 Atualmente estou a procura de estágio e não possuo experiência na área.
-- 🆕 Estou sempre em constante evolução, procurando me superar cada vez mais!
 
 <div align="center">
   <a href="https://github.com/nenomuth">
