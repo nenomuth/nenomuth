@@ -1,7 +1,7 @@
 ## 👋 Eaí, tudo bem? Espero que sim! 👋
 
 - 😁 Me chamo Breno e algumas das minhas paixões é... Programar, desenvolver e inovar!
-- 🧠 Possuo conhecimento em Java,C# , HTML5, CSS3, JavaScript. Também estou estudando frameworks como REACT.JS, VUE.JS e NODE.JS.
+- 🧠 Possuo conhecimento em Java, C#, HTML5, CSS3, JavaScript. Também estou estudando frameworks como REACT.JS, VUE.JS e NODE.JS.
 - 🎓 Atualmente estou cursando o meu segundo semestre na faculdade de ADS em FATEC PRAIA GRANDE.
 - 👔 Atualmente estou a procura de estágio e não possuo experiência na área.
 
@@ -22,8 +22,6 @@
 
 ## Redes sociais!
   <div> 
-  <a href="https://www.facebook.com/breno.muth/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nenomuth/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/breno-rodrigues-muth-725b98218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:souriwise@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     
