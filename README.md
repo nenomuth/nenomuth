@@ -11,7 +11,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenomuth&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-## Linguagens na qual possuo conhecimento:
+## Tecnologias na qual possuo conhecimento:
 <div style="display: inline_block"><br>
   <img align="center" alt="nenomuth-HTML" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nenomuth-CSS" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
