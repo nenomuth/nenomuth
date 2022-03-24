@@ -18,7 +18,6 @@
   <img align="center" alt="nenomuth-JS" height="70" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nenomuth-CSHARP" height="70" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="nenomuth-JAVA" height="70" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="nenomuth-pic" height="200" style="border-radius:40px;" src="https://media4.giphy.com/media/42RzEADcdH47pQx2Rp/giphy.gif?cid=790b76118e0cfe44fafdf4a04fd86ed6e836b69b73fed087&rid=giphy.gif&ct=g?width=700&height=700">
 </div>
 
 ## Redes sociais!
