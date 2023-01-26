@@ -1,8 +1,8 @@
 ## 👋 Eaí, tudo bem? Espero que sim! 👋
 
 - 😁 Me chamo Breno e algumas das minhas paixões é... Programar, desenvolver e inovar!
-- 🧠 Possuo conhecimento em Java, C#, HTML5, CSS3, JavaScript. Também estou estudando frameworks como REACT.JS, VUE.JS e NODE.JS.
-- 🎓 Atualmente estou cursando o meu segundo semestre na faculdade de ADS em FATEC PRAIA GRANDE.
+- 🧠 Possuo conhecimento em Java, C++, HTML5, CSS3, JavaScript, MySQL. Também estou estudando frameworks como Spring Boot e Angular.Js.
+- 🎓 Atualmente estou cursando o meu 4º semestre em Análise e Desenvolvimento de Sistemas (ADS).
 - 👔 Atualmente estou a procura de estágio e não possuo experiência na área.
 
 <div align="center">
